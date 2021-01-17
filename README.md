@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Covid-19 Tracker App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created using [React.js](https://github.com/facebook/create-react-app). It has the following features.
+
+- Shows Live Cases, Recoveries, Deaths (clickable tabs)
+- Shows Worldwide cases and Country Based cases
+- Line Chart shows fluctuations over days, hover around to see exact figures
+- Clickable Markers on Map show Country stats
+
+I have got the data from [disease.sh](https://disease.sh/docs/) website.
+
+I have deployed my website using [netlify](https://www.netlify.com/).
+
+URL of my deployed app: [Covid_19_tracker](https://hardcore-mcclintock-730ab4.netlify.app/)
 
 ## Available Scripts
 
